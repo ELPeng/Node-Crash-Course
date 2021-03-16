@@ -10,7 +10,6 @@ if(dotenv.error){
 }
 console.log(dotenv.parsed)
 
-
 //express app
 const app = express()
 
